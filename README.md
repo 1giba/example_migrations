@@ -47,7 +47,7 @@ composer.lock
 
 ```
 
-Feito, agora a biblioteca de migrations fica disponivel no seu projeto.
+Feito isso, a biblioteca de migrations fica disponivel no seu projeto.
 
 ## Passo 3: Criando o arquivo .gitignore
 
