@@ -283,3 +283,4 @@ $ ./vendor/bin/phpmig rollback
 ```
 
 Ele irá apagar a tabela de usuários, executando o método **down()** do arquivo de migration.
+
