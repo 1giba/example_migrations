@@ -284,3 +284,10 @@ $ ./vendor/bin/phpmig rollback
 
 Ele irá apagar a tabela de usuários, executando o método **down()** do arquivo de migration.
 
+## Considerações finais
+
+Trata-se de um exemplo simples de como implementar o migrations em um sistema legado. 
+
+Aqui não são retratadas todas as possibilidades da biblioteca de migrations. Maiores informações pode-se consultar no repositório do criador:
+
+* [https://github.com/davedevelopment/phpmig](https://github.com/davedevelopment/phpmig)
